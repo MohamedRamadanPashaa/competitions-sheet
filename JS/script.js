@@ -1164,7 +1164,7 @@ function sortAlphabitSNTable() {
 }
 
 function sortSCTable() {
-  sortOneTable("scTable", 5);
+  sortOneTable("scTable", 6);
 }
 
 function sortCountrySCTable() {
